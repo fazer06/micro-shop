@@ -1,6 +1,8 @@
 # MicroShop
 
-    This was the additional resources in the building with active record section, because i needed to dive deeper into relationships, its something i've had a hard time getting my head around. 
+    This was the additional resources in the building with active record section
+    because i needed to dive deeper into relationships, its something i've had a
+    hard time getting my head around. 
 
 ### http://tutorials.jumpstartlab.com/topics/models/relationships.html
 
